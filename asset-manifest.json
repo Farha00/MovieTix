@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MovieTix/static/css/main.1ab07e1a.css",
+    "main.js": "/MovieTix/static/js/main.c20d8a3a.js",
+    "static/js/787.0bca8be2.chunk.js": "/MovieTix/static/js/787.0bca8be2.chunk.js",
+    "static/media/logo.svg": "/MovieTix/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MovieTix/index.html",
+    "main.1ab07e1a.css.map": "/MovieTix/static/css/main.1ab07e1a.css.map",
+    "main.c20d8a3a.js.map": "/MovieTix/static/js/main.c20d8a3a.js.map",
+    "787.0bca8be2.chunk.js.map": "/MovieTix/static/js/787.0bca8be2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ab07e1a.css",
+    "static/js/main.c20d8a3a.js"
+  ]
+}
